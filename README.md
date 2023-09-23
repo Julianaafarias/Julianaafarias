@@ -1,7 +1,7 @@
 ### Olá!! Eu sou Juliana Alves de Farias
 
 - 🔭 Desenvolvedora Front-End em transição de carreira
-- 🌱 Estudando: Typescript  / HTML / CSS / JAVASCRIPT 
+- 🌱 Estudando: Typescript  / HTML / CSS / JAVASCRIPT / React
 - 😄 Pronomes: Ela / Dela
 
 <div style="display: inline_block"><br>
