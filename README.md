@@ -1,8 +1,16 @@
 ### Olá!! Eu sou Juliana Alves!
 
-- 🔭 Desenvolvedora Front-End em transição de carreira
-- 🌱 Estudando: Typescript  / HTML / CSS / JAVASCRIPT / React
+- 🧪 Bacharel em Administração com Especialização em Direito Administrativo (UFPE)
+- 💻 Desenvolvedora Front-End
+- 🌱 Recentemente venho aprendendo Typescript, Reactjs, Html, Css, JavaScript
+- 🔭 Servidora Pública em UFPE (Transição de carreira)
 - 😄 Pronomes: Ela / Dela
+
+<div align="center">
+  <a href="https://github.com/Julianaafarias">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Julianaafarias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianaafarias&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
