@@ -1,6 +1,7 @@
 ### Olá!! Eu sou Juliana Alves!
 
-- 🧪 Bacharel em Administração com Especialização em Direito Administrativo (UFPE)
+- 🧪 Bacharel em Administração
+- 🧪 Estudante de Análise e Desenvolvimento de Sistemas
 - 💻 Desenvolvedora Front-End
 - 🌱 Recentemente venho aprendendo Typescript, Reactjs, Html, Css, JavaScript
 - 🔭 Servidora Pública em UFPE (Transição de carreira)
